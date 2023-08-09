@@ -21,3 +21,29 @@ Insert a screenshot or a GIF demonstrating the appearance of the email template.
 
    ```bash
    git clone git@github.com:YourUsername/subway-promotional-email.git
+
+2. Modify the content in the email to match your current promotion.
+
+3. Update the links and call-to-action buttons as needed.
+
+4. Test the template:
+
+- Use an email testing tool to check how the template renders in different email clients.
+- Ensure that the template is responsive and displays correctly on mobile devices.
+
+5. -Send the email:
+-Copy the HTML code of the template and paste it into your email marketing platform.
+-Preview the email in the platform to verify its appearance.
+
+## Credits
+
+Subway logo: Subway Media Assets
+License
+
+This project is licensed under the MIT License.
+
+For any inquiries or assistance, please contact paloma.d.baker@gmail.com
+
+
+
+
