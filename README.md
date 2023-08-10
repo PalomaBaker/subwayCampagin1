@@ -21,7 +21,7 @@ Insert a screenshot or a GIF demonstrating the appearance of the email template.
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone git@github.com:YourUsername/subway-promotional-email.git
+   git clone git@github.com:PalomaBaker/subway-promotional-email.git
 
 2. Modify the content in the email to match your current promotion.
 
