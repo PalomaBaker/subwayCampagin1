@@ -1,6 +1,7 @@
 # Subway Promotional Email Template
 
-![Subway Logo](/images/subway_logo.png)
+![Subway Hi-Res Logo png](https://github.com/PalomaBaker/subwayCampagin1/assets/116035093/c9843d0a-dd99-41b0-9a35-e00f491c3dc4)
+
 
 This repository contains a responsive promotional email template for Subway's marketing campaigns. The template is designed to showcase Subway's deals, offers, and delicious sandwiches to subscribers.
 
