@@ -13,8 +13,9 @@ This repository contains a responsive promotional email template for Subway's ma
 - Customizable content sections to accommodate different promotions.
 
 ## Preview
+![Screen Shot 2023-08-14 at 6 30 37 PM](https://github.com/PalomaBaker/subwayCampagin1/assets/116035093/ac98ffd3-4208-4608-bbe8-d154d649aab5)
 
-Insert a screenshot or a GIF demonstrating the appearance of the email template.
+
 
 ## Usage
 
